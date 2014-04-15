@@ -231,11 +231,28 @@ AND (music) IN (SELECT music FROM user WHERE uid = 669522574)
 	        			html: ""
 	        		});
 	        	   
+	        	   var today = new Date();
+	        	   var dd = today.getDate();
+	        	   var mm = today.getMonth()+1; //January is 0!
+	        	   var yyyy = today.getFullYear();
+
+	        	   if(dd<10) {
+	        	       dd='0'+dd
+	        	   } 
+
+	        	   if(mm<10) {
+	        	       mm='0'+mm
+	        	   } 
+
+	        	   var day1 = mm+'/'+dd+'/'+yyyy;
+	        	   var day2 = (mm+1)+'/'+dd+'/'+yyyy;
+	        	   
+	        	   
 	        	   qry="SELECT uid,pic_big,name, birthday, birthday_date FROM user " ;
 	        	   qry+="WHERE uid in (SELECT uid2 FROM friend WHERE uid1 = me()) "; 
 	        	   qry+="AND birthday_date != 'null' "; 
-                   qry+="AND birthday_date > '01/25/2014' ";
-                   qry+="AND birthday_date < '02/25/2014'";
+                   qry+="AND birthday_date > '"+day1+"' ";
+                   qry+="AND birthday_date < '"+day2+"'";
 	        	   
                    console.log(qry);
 	        	   FB.api({ method:'fql.query',query:qry}, function(response){
