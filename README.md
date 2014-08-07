@@ -1,4 +1,4 @@
-worklight-BuddyApp
+BuddyApp
 ==================
 
-![BuddyApp](https://raw.githubusercontent.com/voidabhi/worklight-PizzaDeliveryApp/screenshot/screenshot.jpg)
+![BuddyApp](https://github.com/voidabhi/worklight-BuddyApp/blob/screenshot/screenshot.jpg)
