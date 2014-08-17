@@ -5,6 +5,16 @@ Swift content sharing app compatible with all mobile platforms. Built on IBM wor
 
 ![BuddyApp](https://github.com/voidabhi/worklight-BuddyApp/blob/screenshot/screenshot.jpg)
 
+Technologies Used
+==========================
+
+`Worklight Framework`
+`HTML5`
+`CSS`
+`Javascript`
+`Java`
+
+
 License
 ==========================
 ```
