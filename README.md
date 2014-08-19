@@ -8,6 +8,8 @@ Swift content sharing app compatible with all mobile platforms. Built on IBM wor
 Features
 ==========================
 
+1)Facebook login
+
 Technologies Used
 ==========================
 
