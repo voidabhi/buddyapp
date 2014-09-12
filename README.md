@@ -9,6 +9,7 @@ Features
 ==========================
 `Facebook login`
 `Birthday Reminder`
+`Buddy Tracker`
 
 Technologies Used
 ==========================
