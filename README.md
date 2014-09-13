@@ -8,6 +8,7 @@ Swift content sharing app compatible with all mobile platforms. Built on IBM wor
 Features
 ==========================
 `Facebook login`
+`Content Sharing`
 `Birthday Reminder`
 `Buddy Tracker`
 
