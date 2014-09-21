@@ -3,8 +3,6 @@ BuddyApp
 
 Swift content sharing app compatible with all mobile platforms. Built on IBM worklight for [IBM- TGMC 2013](http://www.ibmtgmc.com)
 
-![PizzaDeliveryApp](https://raw.githubusercontent.com/voidabhi/worklight-PizzaDeliveryApp/screenshot/screenshot.png)
-
 ![BuddyApp](https://github.com/voidabhi/worklight-BuddyApp/blob/screenshot/screenshot.jpg)
 
 Features
