@@ -25,6 +25,7 @@ Technologies Used
 
 Contribution
 ============
+Waiting for pull requests.
 
 License
 ==========================
