@@ -25,7 +25,7 @@ Technologies Used
 
 Contribution
 ============
-Waiting for pull requests.
+Feel free to send pull requests.
 
 License
 ==========================
