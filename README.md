@@ -20,7 +20,7 @@ Technologies Used
 `CSS3`
 `Javascript`
 `Java`
-`Facebook API`
+`Facebook Graph API`
 `Google Maps API`
 
 Contribution
