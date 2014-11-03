@@ -10,6 +10,7 @@ Features
 `Facebook login`
 `Content Sharing`
 `Birthday Reminder`
+Location Sharer
 `Buddy Tracker`
 
 Technologies Used
