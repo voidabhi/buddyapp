@@ -27,6 +27,8 @@ Technologies Used
 Developed By
 =============
 
+`Abhijeet Mohan` - `void.aby@gmail.com`
+
 Contribution
 ============
 Feel free to send pull requests.
