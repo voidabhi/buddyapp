@@ -24,6 +24,9 @@ Technologies Used
 `Facebook Graph API v1`
 `Google Maps API v2`
 
+Developed By
+=============
+
 Contribution
 ============
 Feel free to send pull requests.
