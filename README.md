@@ -13,7 +13,7 @@ Features
 `Location Sharer`
 `Buddy Tracker`
 
-Technologies Used
+Built With
 ==========================
 
 `Worklight Framework`
