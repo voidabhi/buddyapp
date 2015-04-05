@@ -14,6 +14,7 @@
 				direction_panel, // Id of the Panel element where final directions will be shown
 				panel_container; //Id of panel container
 				
+			// function to initialize map	
 			function mapInit(desLat,desLong,directionPanel,panelContainer,mapCanvas,message)
 			{
 				directionsDisplay = new google.maps.DirectionsRenderer();
