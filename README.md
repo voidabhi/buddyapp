@@ -13,8 +13,7 @@ Features
 `Location Sharer`
 `Buddy Tracker`
 
-Built With
-==========================
+# Built With
 
 `Worklight Framework`
 `HTML5`
