@@ -1,22 +1,4 @@
 
-/*
- * Debugging 
- *        if (typeof FB !== 'undefined') {
-          console.log("FB JS API is available now");
-          FB.getLoginStatus(function(response) {
-              if (response.status === 'connected') {
- * 
- * */       
-
-/*
- * SELECT interests, movies, tv, music, books FROM user 
-WHERE uid=me() 
-AND (interests) IN (SELECT interests FROM user WHERE uid = 669522574) 
-AND (movies) IN (SELECT movies FROM user WHERE uid = 669522574) 
-AND (tv) IN (SELECT tv FROM user WHERE uid = 669522574) 
-AND (music) IN (SELECT music FROM user WHERE uid = 669522574)
- * 
- * */
 
 			var friends= [];
 			var bfriends = [];
