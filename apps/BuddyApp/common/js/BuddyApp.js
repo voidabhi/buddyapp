@@ -20,6 +20,7 @@
 						}
 					},{scope: 'publish_actions,friends_birthday,friends_likes,friends_location'});
 				
+				// hover on menu
 				$("#message").hover(showMessage);
 				$("#birthday").hover(showBirthday);
 				$("#post").hover(showPost);
