@@ -5,6 +5,7 @@
 			var global = this;
 			// FACEBOOK LOGIN
 			
+			// Login with fb account
 			function Login()
 			{
 				
@@ -27,6 +28,7 @@
 				$("#tracker").hover(showTracker);
 			}	
 			
+			// Logout from fb account
 			function Logout()
 			{
 				FB.logout(function(response) {
