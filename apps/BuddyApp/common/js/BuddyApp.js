@@ -180,7 +180,7 @@
 				});
 			}			
 			
-			
+			// create fb feed
 			function createFeed()
 			{
 				
