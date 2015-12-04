@@ -69,6 +69,7 @@
                 initializeMapAndCalculateRoute(position.coords.latitude, position.coords.longitude);
             }
 
+	    // calculate geo distance between two lat,long
             function calculateRoute() {
 
                 var targetDestination =  new google.maps.LatLng(destinationLatitude, destinationLongitude);
