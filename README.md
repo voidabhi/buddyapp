@@ -1,19 +1,19 @@
-BuddyApp
-==================
+## BuddyApp
+
 
 Swift content sharing app compatible with all mobile platforms(Android,Windows,ios). Built on IBM worklight for [IBM- TGMC 2013](http://www.ibmtgmc.com)
 
 ![BuddyApp](https://github.com/voidabhi/worklight-BuddyApp/blob/screenshot/screenshot.jpg)
 
-Features
-==========================
+### Features
+
 `Facebook Login`
 `Content Sharing`
 `Birthday Reminder`
 `Location Sharer`
 `Buddy Tracker`
 
-# Built With
+### Built With
 
 `Worklight Framework`
 `HTML5`
@@ -33,12 +33,11 @@ Developed By
        src="http://data.pkmmte.com/temp/social_google_plus_logo.png" />
 </a>
 
-Contribution
-============
+### Contribution
+
 Feel free to send pull requests.
 
-License
-=======
+### License
 
 ```
 Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/worklight-BuddyApp
