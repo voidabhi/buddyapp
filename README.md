@@ -23,8 +23,7 @@ Swift content sharing app compatible with all mobile platforms(Android,Windows,i
 `Facebook Graph API v1`
 `Google Maps API v2`
 
-Developed By
-=============
+### Developed By
 
 `Abhijeet Mohan` - `void.aby@gmail.com`
 
