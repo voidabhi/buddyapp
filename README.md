@@ -3,7 +3,7 @@
 
 Swift content sharing app compatible with `Android` `Windows` `iOS`). Built on IBM worklight for [IBM- TGMC 2013](http://www.ibmtgmc.com)
 
-![BuddyApp](https://github.com/voidabhi/worklight-BuddyApp/blob/screenshot/screenshot.jpg)
+![BuddyApp](http://www.bowmenofstmarys.co.uk/communities/0/004/012/081/350//images/4608940247_495x267.jpg)
 
 ### Features
 
