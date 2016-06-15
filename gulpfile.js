@@ -9,7 +9,7 @@ gulp.task('default', function () {
 });
 
 gulp.task('lint', function () {
-    gulp.src('**/*.js', '!node_modules/**')
+    gulp.src('**/*.js', '!node_modules/**', '!.settings/**')
         .pipe(jshint())
         .pipe(jshint.reporter('default'));
 });
