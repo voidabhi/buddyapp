@@ -15,7 +15,8 @@ Swift content sharing app compatible with `Android` `Windows` `iOS`. Built on IB
 
 ### Built With
 
-`Worklight Framework`
+`IBM Worklight Framework`
+`DB2`
 `HTML5`
 `CSS3`
 `Javascript`
