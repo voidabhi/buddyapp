@@ -24,6 +24,12 @@ Swift content sharing app compatible with `Android` `Windows` `iOS`. Built on IB
 `Facebook Graph API v1`
 `Google Maps API v2`
 
+### Build
+
+```bash
+  $ sh build.sh
+```
+
 ### Developed By
 
 `Abhijeet Mohan` - `void.aby@gmail.com`
